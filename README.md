@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prerityash" alt="prerityash" /></a> </p>
 
-- 🔭 I’m currently working on my [Portfolio](portfab.000.pe)
+- 🔭 I’m currently working on my [Portfolio](http://portfab.000.pe)
 
 - 🌱 I’m currently learning **Django,Python**
 
-- 👨‍💻 All of my projects are available at [portfab.000.pe](portfab.000.pe)
+- 👨‍💻 All of my projects are available at [portfab.000.pe](http://portfab.000.pe)
 
 - 📝 I weekly write articles on [medium.com/@soumyaprerit](medium.com/@soumyaprerit)
 
@@ -23,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/soumya-prerit-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soumya-prerit-/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/26648977/soumya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/26648977/soumya" height="30" width="40" /></a>
-<a href="https://instagram.com/yashprerit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashprerit" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/soumya-prerit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumya-prerit" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/26648977" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26648977" height="30" width="40" /></a>
+<a href="https://instagram.com/yash_prerit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash_prerit" height="30" width="40" /></a>
 <a href="https://medium.com/@soumyaprerit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@soumyaprerit" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/preritvlogs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="preritvlogs" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@prerityash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@prerityash" height="30" width="40" /></a>
