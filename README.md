@@ -1,176 +1,150 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Hey!%20I'm%20Prerityash&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Engineering%20Student%20•%20Full%20Stack%20Developer%20•%20Open%20Source%20Enthusiast&descAlignY=60"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1400&duration=3000&color=39D353&center=true&vCenter=true&width=1000&lines=%24+npm+start+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+99%25;%3E+Hello,+I'm+Prerityash.;%E2%9C%94+Please+don't+judge+the+old+repositories.;%E2%9C%94+Professional+ChatGPT-er.;%3E+Ctrl%2BC+%3E+Ctrl%2BV+%E2%9C%94+Professional+Developer.;%3E+Still+trying+to+center+a+div.;%3E+Works+on+my+machine%E2%84%A2.;%E2%9C%94+Turning+code+into+bugs+since+college.;%3E+Googling+the+same+error+since+2022.;%3E+Fix+one+bug%2C+create+two+more.;%E2%9C%94+Powered+by+Stack+Overflow+%2B+Hope." />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=console.log(%22Hello+World!%22);Building+Ideas+Into+Reality.;MERN+Developer.;Flutter+Developer.;Linux+Lover.;Always+Learning+New+Things..." />
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="500"/>
 
 </div>
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+## 🖥️ about_me.js
 
 ```javascript
-const prerityash = {
-    education: "Engineering Student",
+class Developer {
 
-    code: [
-        "C",
-        "C++",
-        "Java",
-        "JavaScript"
-    ],
+    constructor() {
 
-    technologies: {
-        frontend: [
-            "HTML5",
-            "CSS3",
-            "Tailwind CSS"
-        ],
+        this.name = "Prerityash";
 
-        backend: [
-            "Node.js",
-            "Express.js"
-        ],
+        this.role = "Engineering Student (my bad)";
 
-        database: [
-            "MongoDB"
-        ],
+        this.languages = [
+            "C",
+            "C++",
+            "Java",
+            "JavaScript"
+        ];
 
-        mobile: [
+        this.stack = [
+            "HTML",
+            "CSS",
+            "Tailwind",
+            "MERN",
             "Flutter"
-        ],
+        ];
 
-        tools: [
+        this.tools = [
+            "Linux",
             "Git",
             "GitHub",
-            "Linux",
             "Postman",
             "VS Code"
-        ]
-    },
+        ];
 
-    currentFocus: "Building Awesome Full Stack Projects",
+        this.currentlyLearning = [
+            "DSA",
+            "System Design",
+            "Backend"
+        ];
 
-    motto: "Code • Debug • Coffee • Repeat ☕"
-};
+        this.goal = "Hopefully land a stable job before my laptop gives up.";
+    }
 
+    coffee() {
+        return Infinity;
+    }
+
+    sleep() {
+        return "Required DLC";
+    }
+}
+
+const me = new Developer();
+
+console.log("If it works, don't touch it.");
+```
+
+---
+
+## 💻 Stacks I *think* I know
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,tailwind,nodejs,express,mongodb,flutter,linux,git,github,postman,vscode&theme=dark&perline=8"/>
+
+</div>
+
+---
+
+## 🧑‍💻 Current Status
+
+<div align="center">
+
+<img width="450" src="https://media.tenor.com/GfSX-u7VGM4AAAAd/coding.gif"/>
+
+</div>
+
+---
+
+## 📈 Contributions
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prerityash&theme=github-dark&hide_border=true&bg_color=0d1117&color=39d353&line=39d353&point=ffffff"/>
+
+</div>
+
+---
+
+## ⚡ terminal
+
+```bash
 $ whoami
-Developer
+prerityash
+
+$ git status
+
+On branch main
+
+nothing to commit,
+still pretending to know Git
 
 $ uptime
-Learning 24/7
 
+Learning 15/7
+(Because sleep isn't optional.)
+
+$ git log
+
+✓ ~~Learned~~ Broke something new
+
+✓ Fixed 1 bug
+
+✓ Accidentally created 4 more
+
+✓ Pushed ~~code~~ myself
+
+✓ Googled the same error...
+  ...again.
+
+Status:
+Works on my machine ✔
 ```
 
 ---
 
-# 👨‍💻 Programmer
-
 <div align="center">
 
-<img width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-</div>
-
----
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,tailwind,nodejs,express,mongodb,flutter,linux,git,github,postman,vscode&perline=8" />
-
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prerityash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerityash&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=prerityash&theme=tokyonight&hide_border=true&background=00000000"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prerityash&theme=algolia&no-frame=true&margin-w=10&row=2&column=4"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prerityash&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# ⚡ Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🎵 Coding Mood
-
-<p align="center">
+![](https://komarev.com/ghpvc/?username=prerityash&style=flat-square&color=39d353)
 
 ```text
-git add .
-git commit -m "Building every day"
-git push origin future
+while(alive){
+    learn();
+    build();
+    break();
+    repeat();
+}
 ```
-
-</p>
-
----
-
-# 🌐 Connect
-
-<p align="center">
-
-<a href="https://github.com/prerityash">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=prerityash&style=for-the-badge&color=blueviolet)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 
 </div>
