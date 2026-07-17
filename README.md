@@ -48,7 +48,7 @@ class Developer {
             "Backend"
         ];
 
-        this.goal = "Hopefully land a stable job before my laptop gives up.";
+        this.goal = "Hopefully land a stable job before my laptop fcuks up.";
     }
 
     coffee() {
@@ -113,18 +113,17 @@ still pretending to know Git
 
 $ uptime
 
-Learning 15/7
-(Because sleep isn't optional.)
+Learning 15/7 (Because sleep is nessasary)
 
 $ git log
 
-✓ ~~Learned~~ Broke something new
+✓ Learned❌ Broke something new[✓]
 
 ✓ Fixed 1 bug
 
 ✓ Accidentally created 4 more
 
-✓ Pushed ~~code~~ myself
+✓ Pushed code❌ myself [✓]
 
 ✓ Googled the same error...
   ...again.
